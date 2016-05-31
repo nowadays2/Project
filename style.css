@@ -1,0 +1,78 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+#weapper {
+	width: auto;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+#menu {
+	width: auto;
+	height: 96px;
+	background-color:	#222222;
+}
+#menu a {
+	color:#BBBBBB;
+}
+#slide_show {
+	width: auto;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+	
+	margin:0;
+}
+#logo{
+	width:110px; 
+	height:110px;
+	background-color: #cc0;
+	margin-left: 100px;
+}
+#note{
+	width: auto;
+	height:324;
+	background-color: #333333;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+#product{
+	width: auto;
+	height: 1625;
+	background-color: #f20;
+	margin-right: auto;
+	margin-left: auto;
+}
+video {
+  width: 100%    !important;
+  height: auto   !important;
+  opacity: 0.6;
+    filter: alpha(opacity=60);
+   
+}
+#text_1{
+	width: auto;
+	height: auto;
+
+
+}
+#note img{
+	padding-top: 324px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
