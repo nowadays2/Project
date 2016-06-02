@@ -14,6 +14,7 @@ body{
 	margin-left: auto;
 	
 }
+@media only screen and (max-width:1280px){
 #logo{
 	width: 152px;
 	height: 42px;
@@ -40,6 +41,43 @@ body{
     
    
 }
+.pink{
+    width: 20px;
+    height: 20px;
+    background-color: #d74450;
+    border: solid 1px #c32f3a;
+    border-radius: 50%
+}
+.blue{
+    width: 20px;
+    height: 20px;
+    background-color: #4a567d;
+    border: solid 1px #37405d;
+    border-radius: 50%
+}
+.black{
+    width: 20px;
+    height: 20px;
+    background-color: #282828;
+    border: solid 1px #404040;
+    border-radius: 50%
+}
+.violate{
+    width: 20px;
+    height: 20px;
+    background-color: #a94aa1;
+    border: solid 1px #8e3e87;
+    border-radius: 50%
+}
+.gray{
+    width: 20px;
+    height: 20px;
+    background-color: #d0d0d0;
+    border: solid 1px #b9b9b9;
+    border-radius: 50%
+}
+
+
 .mbar3{
 	 float: right;
     margin-top: 40px;
@@ -90,7 +128,7 @@ body{
 
 #note{
 	width: auto;
-	height:324;
+	height:324px;
 	background-image: url(image/notice.png); 
 	background-color: #333333;
 	margin-right: auto;
@@ -100,7 +138,7 @@ body{
 }
 #product{
 	width: auto;
-	height: 1625;
+	height: 1625px;
 	background-color: #eee;
 	margin-right: auto;
 	margin-left: auto;
@@ -341,6 +379,334 @@ font-size: 36px;
 	padding-top: 3px;
 	padding-bottom: 3px;
 }
+#review{
+	width: auto;
+	height: 600px;
+	background-color: #ccc;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 707px;
+
+}
+#img_people1 {
+	width: auto;
+	height: auto;
+	margin-left: 250px;
+	margin-top: 100px;
+	background-color: #ddd;
+	float: left;
+}
+#img_people img{
+	padding-top: 50px;
+	padding-left: 30px;
+	float: left;
+}
+.text_pre1{
+	float: right;
+}
+p.text_pre1{
+	float: left;
+	margin-right: 300px;
+	font-size: 24px;
+	
+}
+.text_pre2{
+	float: left;
+	margin-left: 300px;
+    
+
+}
+a.text_pre2{
+	float: left;
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 70px; 
+	padding-top: 100px;
+    
+
+}
+#note2{
+	width: auto;
+	height:324px;
+	background-image: url(image/notice.png); 
+	background-color: #333333;
+	margin-right: auto;
+	margin-left: auto;
+}
+#note2 img {
+    padding-top: 5.7%;
+}
+@media only screen and (max-width:765px){
+
+#pro1{
+	width: 100%;
+	height: auto;
+	background-color: #eee;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+#img_pro1{
+	width: auto;
+	height: 480px;
+	margin-left: 15%;
+	margin-right: 5%;
+	float: left;
+}
+#img2_pro1{
+	width: 100%;
+	height: 480px;
+	padding-top:15px;
+	margin-left: auto;
+	margin-right: 15%;
+	
+}
+#pro2{
+	width: 100%;
+	height: 500px;
+	background-color: #eee;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+#img2_pro2{
+	width: auto;
+	height: 480px;
+	margin-left: 15%;
+	margin-right: 5%;
+	float: left;
+	
+}
+#img_pro2{
+	width: 100%;
+	height: 480px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+#img_se2{
+	padding-left: 15px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	float: left;
+}
+#text_pro2{
+	width: 100%;
+	height: auto;
+	
+}
+#img_pro3{
+	width: auto;
+	height: 480px;
+	margin-left: 15%;
+	margin-right: 5%;
+	float: left;
+}
+
+#img2_pro3{
+	width: 100%;
+	height: 480px;
+	padding-top:15px;
+	margin-left: auto;
+	margin-right: 15%;
+	
+}
+.t_pro2 {
+    font-size: 36px;
+    font-weight: bold;
+    padding-left: 90px;
+    margin: 0;
+    float: left;
+}
+hr.tt {
+	width: 30%;
+}
+#pro4{
+	width: 100%;
+	height: 500px;
+	background-color: #eee;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+#img2_pro4{
+	width: auto;
+	height: 480px;
+	margin-left: 15%;
+	margin-right: 5%;
+	float: left;
+	
+}
+#img_pro4{
+	width: 100%;
+	height: 480px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+#note img {
+    padding-top: 9.7%;
+}
+#note2 img {
+    padding-top: 5.7%;
+}
+#note2{
+	width: auto;
+	height:324px;
+	background-image: url(image/notice.png); 
+	background-color: #333333;
+	margin-right: auto;
+	margin-left: auto;
+
+
+}
+}
+@media only screen and (max-width:530px){
+	#pro1{
+	width: 100%;
+	height: auto;
+	background-color: #eee;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+#img_pro1{
+	width: auto;
+	height: 480px;
+	margin-left: 2%;
+	margin-right: 5%;
+	float: left;
+}
+#img2_pro1{
+	width: 100%;
+	height: 480px;
+	padding-top:15px;
+	margin-left: auto;
+	margin-right: 15%;
+	
+}
+
+#pro2{
+	width: 100%;
+	height: 500px;
+	background-color: #eee;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+#img2_pro2{
+	width: auto;
+	height: 480px;
+	margin-left: 4%;
+	margin-right: 2%;
+	float: left;
+	
+}
+#img_pro2{
+	width: 100%;
+	height: 480px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+#img_pro2 img {
+    padding-top: 20px;
+    padding-left: 2px;
+}
+#img_se2{
+	padding-left: 15px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	float: left;
+}
+#text_pro2{
+	width: 100%;
+	height: auto;
+	
+}
+#img_pro2 img {
+    padding-top: 20px;
+   
+}
+
+#img_pro3{
+	width: auto;
+	height: 480px;
+	margin-left: 1%;
+	margin-right: 2%;
+	float: left;
+}
+p.t6_pro3 {
+    font-size: 14px;
+    color: #333;
+    padding-left: 0px;
+    margin-top: 0;
+    float: left;
+    font-weight: 5px;
+
+}
+#img2_pro3{
+	width: 100%;
+	height: 480px;
+	
+	margin-left: auto;
+	margin-right: 15%;
+	
+}
+#note img {
+    padding-top: 6.5%;
+}
+
+.button{
+	margin-left: 10px;
+}
+
+}
+
+.jssorb05 {
+            position: absolute;
+        }
+        .jssorb05 div, .jssorb05 div:hover, .jssorb05 .av {
+            position: absolute;
+            /* size of bullet elment */
+            width: 16px;
+            height: 16px;
+            background: url('img/b05.png') no-repeat;
+            overflow: hidden;
+            cursor: pointer;
+        }
+        .jssorb05 div { background-position: -7px -7px; }
+        .jssorb05 div:hover, .jssorb05 .av:hover { background-position: -37px -7px; }
+        .jssorb05 .av { background-position: -67px -7px; }
+        .jssorb05 .dn, .jssorb05 .dn:hover { background-position: -97px -7px; }
+
+        /* jssor slider arrow navigator skin 12 css */
+        /*
+        .jssora12l                  (normal)
+        .jssora12r                  (normal)
+        .jssora12l:hover            (normal mouseover)
+        .jssora12r:hover            (normal mouseover)
+        .jssora12l.jssora12ldn      (mousedown)
+        .jssora12r.jssora12rdn      (mousedown)
+        */
+        .jssora12l, .jssora12r {
+            display: block;
+            position: absolute;
+            /* size of arrow element */
+            width: 30px;
+            height: 46px;
+            cursor: pointer;
+            background: url('/Applications/XAMPP/xamppfiles/htdocs/Project/image/a12.png') no-repeat;
+            overflow: hidden;
+        }
+        .jssora12l { background-position: -16px -37px; }
+        .jssora12r { background-position: -75px -37px; }
+        .jssora12l:hover { background-position: -136px -37px; }
+        .jssora12r:hover { background-position: -195px -37px; }
+        .jssora12l.jssora12ldn { background-position: -256px -37px; }
+        .jssora12r.jssora12rdn { background-position: -315px -37px; }
+
+
 
 
 
